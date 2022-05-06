@@ -25,6 +25,8 @@
 /* Begin PBXFileReference section */
 		B18B1AF82825697400520726 /* prodHW */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = prodHW; sourceTree = BUILT_PRODUCTS_DIR; };
 		B18B1AFB2825697400520726 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		B18B1B07282571E100520726 /* Hw2 */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Hw2; sourceTree = "<group>"; };
+		B18B1B082825726300520726 /* Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Header.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +43,8 @@
 		B18B1AEF2825697400520726 = {
 			isa = PBXGroup;
 			children = (
+				B18B1B082825726300520726 /* Header.h */,
+				B18B1B07282571E100520726 /* Hw2 */,
 				B18B1AFA2825697400520726 /* prodHW */,
 				B18B1AF92825697400520726 /* Products */,
 			);
